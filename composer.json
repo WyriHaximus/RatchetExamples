@@ -1,0 +1,27 @@
+{
+    "name": "wyrhaximus/ratchet-examples",
+    "description": "Set of examples for wyrihaximus/ratchet",
+    "type": "cakephp-plugin",
+    "license": "MIT",
+    "keywords": [
+        "ratchet",
+        "cakephp",
+        "websockets",
+        "examples"
+    ],
+    "authors": [
+        {
+            "name": "Cees-Jan Kiewiet",
+            "email": "ceesjank@gmail.com",
+            "homepage": "http://wyrihaximus.net/"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "wyrhaximus/ratchet": "0.1.*",
+        "composer/installers": "*"
+    },
+    "config": { 
+        "vendor-dir": "Vendor/" 
+    }
+}
