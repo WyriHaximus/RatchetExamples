@@ -1,18 +1,12 @@
 <?php
 
+App::uses('Security', 'Utility');
+
 class GoogleMapController extends AppController {
     
     public $helpers = array(
         'Ratchet.Wamp',
     );
-    
-    public function beforeFilter() {
-        parent::beforeFilter();
-        $this->Auth->allow(array(
-            'index',
-            'control',
-        ));
-    }
     
     public function index() {
         $this->set('channelId', Security::generateAuthKey());
