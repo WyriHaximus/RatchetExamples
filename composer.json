@@ -19,6 +19,7 @@
     "require": {
         "php": ">=5.3.3",
         "wyrhaximus/ratchet": "0.1.*",
+        "predis/predis-async": "dev-master",
         "composer/installers": "*"
     },
     "config": { 
