@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/WyriHaximus/RatchetExamples.png)](https://travis-ci.org/WyriHaximus/RatchetExamples)
-[![Latest Stable Version](https://poser.pugx.org/WyriHaximus/RatchetExamples/v/stable.png)](https://packagist.org/packages/WyriHaximus/RatchetExamples)
-[![Total Downloads](https://poser.pugx.org/WyriHaximus/RatchetExamples/downloads.png)](https://packagist.org/packages/WyriHaximus/RatchetExamples)
+[![Latest Stable Version](https://poser.pugx.org/WyriHaximus/Ratchet-Examples/v/stable.png)](https://packagist.org/packages/WyriHaximus/Ratchet-Examples)
+[![Total Downloads](https://poser.pugx.org/WyriHaximus/Ratchet-Examples/downloads.png)](https://packagist.org/packages/WyriHaximus/Ratchet-Examples)
 [![Coverage Status](https://coveralls.io/repos/WyriHaximus/RatchetExamples/badge.png)](https://coveralls.io/r/WyriHaximus/RatchetExamples)
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/WyriHaximus/ratchetexamples/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
